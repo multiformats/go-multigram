@@ -11,7 +11,7 @@
 
 This is the [multigram](https://github.com/multiformats/multigram) implementation in Go. This repository is a **work in progress**.
 
-Join the dicussion about how to build this out here: https://github.com/ipfs/specs/pull/123/files.
+Join the discussion about how to build this out here: https://github.com/ipfs/specs/pull/123/files.
 
 ## Maintainers
 
